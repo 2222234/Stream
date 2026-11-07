@@ -1,0 +1,351 @@
+{
+  "dialogues": [
+    {
+      "id": "start_1",
+      "lines": [
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「看招啊！！！」"
+        },
+        {
+          "avatar": "Boss",
+          "name": "Boss",
+          "text": "「来吧，我就在这里，尽管攻过来啊」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「呜啊……怎，怎么可能？」"
+        },
+        {
+          "avatar": "Boss",
+          "name": "Boss",
+          "text": "「没有用的，想打败我？再练十天去吧」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「开什么玩笑……我、我根本连一天都不剩下了啊」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「背负我的整个暑假，今晚必须做个了断」"
+        },
+        {
+          "avatar": "Boss",
+          "name": "Boss",
+          "text": "「哈哈哈哈哈，你就剩最后一天了啊……」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「你你你你说什么？？」"
+        },
+        {
+          "avatar": "Boss",
+          "name": "Boss",
+          "text": "「你看看你又死了吧，你就怀着遗憾上学去吧！」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「啊啊啊啊啊啊啊啊啊啊啊啊啊啊」"
+        },
+        {
+          "text": "（砸电脑）"
+        }
+      ]
+    },
+    {
+      "id": "start_2",
+      "lines": [
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "……电脑坏掉了"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "假期的最后一天，我的游戏还没有结束"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "修电脑，没错，凭借我的组装能力，修好个电脑根本不算难事"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "……"
+        }
+      ]
+    },
+    {
+      "id": "start_3",
+      "lines": [
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "少了三个零件！搞什么啊，我总不能一拳把零件打飞出去吧？！"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "……没办法了，先出门找找看"
+        },
+        {
+          "text": "AWD移动...鼠标滚轮/上下方向键切换武器...左键开火..."
+        },
+        {
+          "text": "使用工作台改枪...在自行车处出动...ESC退出..."
+        }
+      ]
+    },
+    {
+      "id": "station_1",
+      "lines": [
+        {
+          "avatar": "Clock",
+          "name": "钟表",
+          "text": "「这里的世界……和游戏里，感觉完全不一样啊」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "……怎么回事？那个表在自言自语诶。"
+        },
+        {
+          "avatar": "Clock",
+          "name": "钟表",
+          "text": "「……」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「别装死，说话啊！」"
+        }
+      ]
+    },
+    {
+      "id": "station_2",
+      "lines": [
+        {
+          "avatar": "Clock",
+          "name": "钟表",
+          "text": "「可恶，还真让你找到了」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「啧，又被看扁了」"
+        }
+      ]
+    },
+    {
+      "id": "station_3",
+      "lines": [
+        {
+          "avatar": "Clock",
+          "name": "钟表",
+          "text": "「这是给你的奖励，祝你身体健康，再见」"
+        },
+        {
+          "text": "获得电脑配件1 解锁了新的武器配件"
+        }
+      ]
+    },
+    {
+      "id": "mall_1",
+      "lines": [
+        {
+          "avatar": "Hat",
+          "name": "帽子",
+          "text": "「是那个学生……作业写完了吗就来逛商场」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「早写完了，重点根本不是这个」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「……诶？等等，刚才是谁在说话？！」"
+        }
+      ]
+    },
+    {
+      "id": "mall_2",
+      "lines": [
+        {
+          "avatar": "Hat",
+          "name": "帽子",
+          "text": "「唔，还是被发现了啊」"
+        },
+        {
+          "avatar": "Hat",
+          "name": "帽子",
+          "text": "「现实里的魔术……果然还不是魔法」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「别废话了，受死吧你！！」"
+        }
+      ]
+    },
+    {
+      "id": "mall_3",
+      "lines": [
+        {
+          "avatar": "Hat",
+          "name": "帽子",
+          "text": "「诶，你个学生烦不烦，早点回你该待的地方吧！」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「该去的地方？家里吗？」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "这倒是提醒我了，快点回家安装零件吧"
+        },
+        {
+          "text": "获得电脑配件2/3 解锁了新的武器配件"
+        }
+      ]
+    },
+    {
+      "id": "school_1",
+      "lines": [
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "……好饿，要是食堂没关门就好了"
+        }
+      ]
+    },
+    {
+      "id": "school_2",
+      "lines": [
+        {
+          "avatar": "Cook",
+          "name": "厨师",
+          "text": "「晚上好，同学」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「您是……厨师？」"
+        },
+        {
+          "avatar": "Cook",
+          "name": "厨师",
+          "text": "「没错。把你的食材给我，我来填饱你的肚子」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「什么啊？」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「好的别闹了，老实把最后一个零件交出来！」"
+        },
+        {
+          "avatar": "Cook",
+          "name": "厨师",
+          "text": "「呃呃呃呃～～」"
+        }
+      ]
+    },
+    {
+      "id": "school_3",
+      "lines": [
+        {
+          "text": "获得电脑配件3"
+        }
+      ]
+    },
+    {
+      "id": "home_1",
+      "lines": [
+        {
+          "avatar": "Boss",
+          "name": "Boss",
+          "text": "「逊爆了啊，打不过就关电脑」"
+        },
+        {
+          "avatar": "Boss",
+          "name": "Boss",
+          "text": "「我还以为你放弃了呢」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「？」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「要不是你偷走零件到处乱跑，我怎么可能中断游戏啊」"
+        },
+        {
+          "avatar": "Boss",
+          "name": "Boss",
+          "text": "「这家伙在说什么呢？」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "……看来他没有保存电脑外的记忆"
+        },
+        {
+          "text": "那么剩下的，只有战斗"
+        },
+        {
+          "avatar": "Boss",
+          "name": "Boss",
+          "text": "「来吧，我就在这里，尽管攻过来吧！」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「来了！」"
+        }
+      ]
+    },
+    {
+      "id": "home_2",
+      "lines": [
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「终于，游戏打完了」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「明天还要上学」"
+        },
+        {
+          "avatar": "Dude",
+          "name": "哥们",
+          "text": "「……明天啊，最好是个晴天吧」"
+        },
+        {
+          "text": "已通关 感谢游玩"
+        },
+        {
+          "text": "莫比乌斯工作室 white12118 aka神秘走地雷鸟 2222234 dog1881 夜空"
+        }
+      ]
+    }
+  ]
+}

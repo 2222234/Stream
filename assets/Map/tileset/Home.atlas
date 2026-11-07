@@ -1,0 +1,223 @@
+
+Home.png
+size: 128, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Texture/Bed1
+  rotate: false
+  xy: 55, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Bed3
+  rotate: false
+  xy: 19, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Bed2
+  rotate: false
+  xy: 19, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Bed4
+  rotate: false
+  xy: 19, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Brick3
+  rotate: false
+  xy: 73, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Chair1
+  rotate: false
+  xy: 19, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Computer1
+  rotate: false
+  xy: 91, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Computer2
+  rotate: false
+  xy: 73, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Earphones1
+  rotate: false
+  xy: 19, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Earphones2
+  rotate: false
+  xy: 19, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Earphones3
+  rotate: false
+  xy: 1, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Earphones4
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/FireWater
+  rotate: false
+  xy: 37, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Flower
+  rotate: false
+  xy: 37, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/GunTable1
+  rotate: false
+  xy: 55, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/GunTable2
+  rotate: false
+  xy: 37, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/GunTable3
+  rotate: false
+  xy: 1, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/GunTable4
+  rotate: false
+  xy: 91, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/GunTable5
+  rotate: false
+  xy: 37, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/GunTable6
+  rotate: false
+  xy: 109, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Light11
+  rotate: false
+  xy: 1, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Light12
+  rotate: false
+  xy: 1, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Light13
+  rotate: false
+  xy: 37, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Light14
+  rotate: false
+  xy: 19, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Light15
+  rotate: false
+  xy: 37, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Light16
+  rotate: false
+  xy: 55, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Table11
+  rotate: false
+  xy: 1, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Table12
+  rotate: false
+  xy: 73, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Table21
+  rotate: false
+  xy: 55, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Table22
+  rotate: false
+  xy: 1, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Texture/Wall4
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
